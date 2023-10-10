@@ -13,6 +13,7 @@ public class Main {
         carrinhoDeCompra.adicionarItem("Copo", 20.50, 2);
         System.out.println(carrinhoDeCompra.calcularValorTotal());
         carrinhoDeCompra.exibirItem();
+        
     }
 
 }
